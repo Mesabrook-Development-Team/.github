@@ -1,9 +1,10 @@
+<center>
 <img src="https://i.imgur.com/5hYlFJ1.png" width=150>
 
 # Mesabrook Development Team
 
 We are the developers behind the Mesabrook modded Minecraft Server
-
+</center>
 
 <!--
 
